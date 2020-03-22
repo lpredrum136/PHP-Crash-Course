@@ -46,3 +46,6 @@ $cars2 = [
 ];
 
 echo $cars2[1][0];
+
+$cars3['brand'] = 'VinFast';
+echo $cars3['brand'];
